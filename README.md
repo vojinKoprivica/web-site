@@ -6,4 +6,4 @@ My webiste...
 
 Readme updated on GitHub
 
-promena na lokalnom.
+Promena na githubu.
